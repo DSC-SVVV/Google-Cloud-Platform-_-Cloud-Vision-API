@@ -1,5 +1,5 @@
-# Google Cloud Platform | Cloud Vision API
-Google Cloud | Cloud Vision API. This is an appliction using mobile images or images taken through camera to take information present in it. Analyse the image through provided API.
+# Is it fresh?
+We use the technology: Google Cloud Cloud Vision API. This is an appliction using mobile images or images taken through camera to take information whether the vegetable is fresh or not so fresh. Analyse the image through provided API.
 
 # Cloud Vision API
 Cloud Vision API provides powerful Image Analytics capabilities as easy to use APIs. It enables application developers to build the next generation of applications that can see and understand the content within the images.
